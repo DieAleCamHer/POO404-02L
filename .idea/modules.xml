@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Guia1/Guia1.iml" filepath="$PROJECT_DIR$/Guia1/Guia1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Guia2/Guia2.iml" filepath="$PROJECT_DIR$/Guia2/Guia2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Guia3/Guia3.iml" filepath="$PROJECT_DIR$/Guia3/Guia3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MisPracticas/MisPracticas.iml" filepath="$PROJECT_DIR$/MisPracticas/MisPracticas.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO404-02L.iml" filepath="$PROJECT_DIR$/POO404-02L.iml" />
     </modules>
   </component>
