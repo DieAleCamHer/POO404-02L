@@ -1,14 +1,14 @@
 package aplicacion;
 
-import interfaceswing.frmPersona;
+//import interfaceswing.recursos.MiVentana;
+import interfaceswing.recursos.formPersona;
 
 public class Principal {
-
     public static void main(String[] args) {
-
-        frmPersona formpersona = new frmPersona(
-                "Ingreso de datos de una persona");
-
+        //new MiVentana();
+        formPersona formpersona = new formPersona(
+                "Ingreso de datos de una persona"
+        );
         formpersona.setVisible(true);
     }
 }
